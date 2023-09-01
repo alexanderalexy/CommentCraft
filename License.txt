@@ -1,0 +1,7 @@
+MIT License
+
+Urheberrecht (c) 2023 Alexy Alexander
+
+Die vorstehende Urheberrechtshinweis und diese Genehmigungshinweise dürfen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+Die Software wird "wie sie ist", ohne jegliche Gewährleistung, ausdrücklich oder stillschweigend, einschließlich, aber nicht beschränkt auf die Gewährleistung der Marktgängigkeit, der Eignung für einen bestimmten Zweck und der Nichtverletzung der Rechte Dritter. In keinem Fall haften die Autoren oder Urheberrechtsinhaber für Ansprüche, Schäden oder andere Haftungsansprüche, ob in einer Aktion des Vertrags, des Delikts oder anderweitig, die sich aus, in oder in Verbindung mit der Software oder der Verwendung oder anderen Geschäften in der Software ergeben.
